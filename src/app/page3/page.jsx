@@ -119,7 +119,7 @@ export default function Page3() {
             {/* Create Account button */}
             <button
               type="submit"
-              className="mt-40 w-full h-11 rounded-md bg-[#6F3FF5] text-white text-[14px] font-semibold"
+              className="mt-20 w-full h-11 rounded-md bg-[#6F3FF5] text-white text-[14px] font-semibold"
             >
               Create Account
             </button>
